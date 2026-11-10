@@ -190,7 +190,6 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  afm (= 0.2.2)
   html-proofer (~> 5.0)
   jekyll (~> 4.3)
   jekyll-feed
@@ -198,7 +197,6 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-sitemap
   jekyll-spaceship
-  public_suffix (~> 5.0)
   webrick (~> 1.7)
 
 BUNDLED WITH
