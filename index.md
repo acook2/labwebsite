@@ -1,9 +1,12 @@
 ---
 ---
 
-# acook2's Website
+# IMMUNE EVASION BY AFRICAN TRYPANOSOMES
 
-An engaging 1-3 sentence description of your lab.
+The Cook Lab was established in November 2026. Our group is fascinated by the molecular interactions parasites have evolved to outwit our sophisticated immune system. As a model, we work with African trypanosomes: single celled, extracellular parasites of our blood, who are masters of immune evasion. We are currently investigating how these parasites evade the complement system: an ancient protein cascade that defends our blood and surrounding tissues.
+
+We hope to discover fascinating new host-pathogen biology, and use this knowledge to improve vaccines and design new immunotherapies.
+
 
 {% include section.html %}
 
@@ -11,12 +14,12 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are passionate about host-parasite interactions. 
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Learn more about our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -32,39 +35,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The lab started in Novemeber 2026, and we are recruiting to build our team! We are recruiting at various levels, and are interested in diverse experiences and backgrounds.
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Meet the team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
