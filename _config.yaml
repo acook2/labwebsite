@@ -1,19 +1,17 @@
 # site properties and page defaults
 title: The Cook Lab
 subtitle: The molecular basis of parasite-immune interactions
-description: at the University of York
+description: 
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@acook2.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: acook2
-  twitter: acook2
-  youtube: acook2
+  email: alex.cook@york.ac.uk
+  orcid: 0000-0003-1283-1541
+  google-scholar: QvSiXfgAAAAJ
+  linkedin: alex-cook-7091318b
 
 ### jekyll settings
 
