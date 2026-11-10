@@ -4,7 +4,7 @@ GEM
     Ascii85 (2.0.1)
     addressable (2.9.2)
       public_suffix (>= 2.0.2, < 8.0)
-    afm (1.0.1)
+    afm (0.2.2)
     async (2.46.0)
       console (~> 1.29)
       fiber-annotation
@@ -190,6 +190,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  afm (= 0.2.2)
   html-proofer (~> 5.0)
   jekyll (~> 4.3)
   jekyll-feed
