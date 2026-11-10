@@ -1,1 +1,1 @@
-Sitemap: https://acook2.github.io/labwebsite/sitemap.xml
+Sitemap: http://cook-lab.co.uk/sitemap.xml
