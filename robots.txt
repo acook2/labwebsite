@@ -1,1 +1,1 @@
-Sitemap: http://cook-lab.co.uk/sitemap.xml
+Sitemap: https://cook-lab.co.uk/sitemap.xml
