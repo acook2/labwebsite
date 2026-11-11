@@ -14,7 +14,7 @@ We hope to discover fascinating new host-pathogen biology, and use this knowledg
 
 {% capture text %}
 
-We are passionate about host-parasite interactions. 
+We are based at the University of York, where the group benefits from access to extraordinary facilities and colleagues. This enables our work to range from discovery of interactions, to detailed biochemical and structural characterisation, to phenotyping with genetic knockouts and infection models. 
 
 {%
   include button.html
@@ -29,7 +29,7 @@ We are passionate about host-parasite interactions.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/yorkhall.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -38,7 +38,9 @@ We are passionate about host-parasite interactions.
 
 {% capture text %}
 
-The lab started in Novemeber 2026, and we are recruiting to build our team! We are recruiting at various levels, and are interested in diverse experiences and backgrounds.
+
+
+We are generously supported by the Wellcome Trust, and we strive to create a diverse and stimulating environment that enables our members to tackle exciting and ambitious projects. 
 
 {%
   include button.html
@@ -48,6 +50,18 @@ The lab started in Novemeber 2026, and we are recruiting to build our team! We a
   flip=true
   style="bare"
 %}
+
+The lab started in Novemeber 2026, and we are recruiting to build our team! We are recruiting at various levels, and are interested in diverse experiences and backgrounds.
+
+{%
+  include button.html
+  link="joinus"
+  text="Join Us!"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
 
 {% endcapture %}
 
