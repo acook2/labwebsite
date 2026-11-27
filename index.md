@@ -21,7 +21,6 @@ We are based at the University of York, where the group benefits from access to 
   link="research"
   text="Learn more about our research"
   icon="fa-solid fa-arrow-right"
-  flip=true
   style="bare"
 %}
 
