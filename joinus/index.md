@@ -12,7 +12,7 @@ nav:
 
 We are looking for highly motivated postdocs to join the lab. We have a currently open position [HERE!](https://jobs.york.ac.uk/vacancy/postdoctoral-research-associate-623746.html)
 
-//If you are interested in exploring host-pathogen interactions in African trypanosomes, send a CV and letter about your interests. Positions will be advertised soon, so watch this space. 
+<!-- If you are interested in exploring host-pathogen interactions in African trypanosomes, send a CV and letter about your interests. Positions will be advertised soon, so watch this space. -->
 
 In addition, we are happy to discuss support for candidates wishing to apply for external fellowships, with writing being an important part of training available in the lab. 
 
