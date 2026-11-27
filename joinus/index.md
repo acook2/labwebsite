@@ -6,9 +6,7 @@ nav:
 ---
 
 
-{% include icon.html icon="fa-solid fa-user-plus" %}
-
-# The team is ready to grow!
+# {% include icon.html icon="fa-solid fa-user-plus" %} The team is ready to grow!
 
 ## Postdoctoral positions:
 
