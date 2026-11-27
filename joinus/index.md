@@ -6,9 +6,11 @@ nav:
 ---
 
 
-#{% include icon.html icon="fa-solid fa-user-plus" %}The team is ready to grow!
+#{% include icon.html icon="fa-solid fa-user-plus" %} 
 
-##Postdoctoral positions:
+The team is ready to grow!
+
+## Postdoctoral positions:
 
 We are looking for highly motivated postdocs to join the lab. If you are interested in exploring host-pathogen interactions in African trypanosomes, send a CV and letter about your interests. Positions will be advertised soon, so watch this space. 
 
