@@ -1,6 +1,6 @@
 ---
 name: Alex Cook
-image: images/photo.jpg
+image: images/me.jpg
 role: pi
 affiliation: University of York
 aliases:
