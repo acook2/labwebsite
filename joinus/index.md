@@ -12,7 +12,9 @@ nav:
 
 ## Postdoctoral positions:
 
-We are looking for highly motivated postdocs to join the lab. If you are interested in exploring host-pathogen interactions in African trypanosomes, send a CV and letter about your interests. Positions will be advertised soon, so watch this space. 
+We are looking for highly motivated postdocs to join the lab. We have a currently open position [HERE!](https://jobs.york.ac.uk/vacancy/postdoctoral-research-associate-623746.html)
+
+//If you are interested in exploring host-pathogen interactions in African trypanosomes, send a CV and letter about your interests. Positions will be advertised soon, so watch this space. 
 
 In addition, we are happy to discuss support for candidates wishing to apply for external fellowships, with writing being an important part of training available in the lab. 
 
@@ -20,6 +22,6 @@ In addition, we are happy to discuss support for candidates wishing to apply for
 
 PhD students can apply to the lab through the excellent DTP programmes at York. We currently have a competitive position available on the BBSRC Yorkshire Bioscience DTP (YBDTP)! 
 
-The link for the PhD opportunity is {% include button.html type="here" tooltip="link to FindAPhD" link="https://www.findaphd.com/phds/project/how-do-african-trypanosomes-evade-complement-attack/?p201460" %}
+The link for the PhD opportunity is [HERE!](https://www.findaphd.com/phds/project/how-do-african-trypanosomes-evade-complement-attack/?p201460)
 
 
