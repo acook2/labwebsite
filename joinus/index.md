@@ -20,5 +20,6 @@ In addition, we are happy to discuss support for candidates wishing to apply for
 
 PhD students can apply to the lab through the excellent DTP programmes at York. We currently have a competitive position available on the BBSRC Yorkshire Bioscience DTP (YBDTP)! 
 
-The link for the PhD opportunity is here: https://www.findaphd.com/phds/project/how-do-african-trypanosomes-evade-complement-attack/?p201460 
+The link for the PhD opportunity is {% include button.html type="here" tooltip="link to FindAPhD" link="https://www.findaphd.com/phds/project/how-do-african-trypanosomes-evade-complement-attack/?p201460" %}
+
 
