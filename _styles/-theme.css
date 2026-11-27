@@ -23,9 +23,12 @@
 }
 
 :root {
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
+  #--title: "Barlow", sans-serif;
+  #--heading: "Barlow", sans-serif;
+  #--body: "Barlow", sans-serif;
+  --title: "DIN Alternate", "DIN", Arial, sans-serif;
+  --heading: "DIN Alternate", "DIN", Arial, sans-serif;
+  --body: "DIN Alternate", "DIN", Arial, sans-serif;
   --code: "Roboto Mono", monospace;
   --large: 1.2rem;
   --xl: 1.4rem;
