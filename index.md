@@ -70,4 +70,5 @@ The lab started in Novemeber 2026, and we are recruiting to build our team! We a
   link="team"
   title="Our Team"
   text=text
+  flip=true
 %}
