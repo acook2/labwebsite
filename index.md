@@ -1,7 +1,7 @@
 ---
 ---
 
-# IMMUNE EVASION BY AFRICAN TRYPANOSOMES
+# **IMMUNE EVASION BY AFRICAN TRYPANOSOMES**
 
 The Cook Lab was established in November 2026. Our group is fascinated by the molecular interactions parasites have evolved to outwit our sophisticated immune system. As a model, we work with African trypanosomes: single celled, extracellular parasites of our blood, who are masters of immune evasion. We are currently investigating how these parasites evade the complement system: an ancient protein cascade that defends our blood and surrounding tissues.
 
