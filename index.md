@@ -67,7 +67,7 @@ The lab started in Novemeber 2026, and we are recruiting to build our team! We a
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.pdf"
   link="team"
   title="Our Team"
   text=text
