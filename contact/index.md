@@ -7,7 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-You can find us in the Department of Biology, at the University of York.
+Our lab is part of the University of York [Department of Biology](https://www.york.ac.uk/biology/), and the [York Structural Biology Laboratory](https://www.york.ac.uk/chemistry/research/ysbl/) (YSBL) and [York Biomedical Research Institute](https://www.york.ac.uk/biomedical-research-institute/) (YBRI).
+
+You can find us in the Department of Biology.
 
 {%
   include button.html
