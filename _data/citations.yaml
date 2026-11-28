@@ -53,7 +53,7 @@
   orcid: 0000-0003-1283-1541
   plugin: sources.py
   file: sources.yaml
-  image: images/paper-complementtryps
+  image: images/paper-complementtryps.png
 - id: doi:10.1038/s41467-022-34710-x
   title: Mechanochemical tuning of a kinesin motor essential for malaria parasite
     transmission
@@ -259,7 +259,7 @@
   publisher: openRxiv
   date: '2026-08-20'
   link: https://doi.org/hct59t
-  image: images/paper-C3bBb
+  image: images/paper-C3bBb.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.7554/eLife.88960.3
@@ -272,7 +272,7 @@
   publisher: eLife
   date: '2024-04-24'
   link: https://doi.org/hct58q
-  image: images/paper-isg65c3b
+  image: images/paper-isg65c3b.png
   plugin: sources.py
   file: sources.yaml
 - id: 10.1038/s41467-022-32728-9
@@ -301,7 +301,7 @@
   publisher: Nature Communications
   date: '2022-08-29'
   link: https://doi.org/hct58t
-  image: images/paper-isg65
+  image: images/paper-isg65.png
   plugin: sources.py
   file: sources.yaml
 - id: 10.1016/j.jbc.2021.101063
@@ -317,7 +317,7 @@
   publisher: Journal of Biological Chemistry
   date: '2021-11-01'
   link: https://doi.org/g6hxpd
-  image: images/paper-pfk5
+  image: images/paper-pfk5.png
   plugin: sources.py
   file: sources.yaml
 - id: 10.1016/j.jsb.2019.10.004
@@ -331,6 +331,6 @@
   publisher: Journal of Structural Biology
   date: '2020-01-01'
   link: https://doi.org/gsvd6m
-  image: images/paper-mirp
+  image: images/paper-mirp.png
   plugin: sources.py
   file: sources.yaml
