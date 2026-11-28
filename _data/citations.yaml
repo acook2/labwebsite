@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.7554/elife.107191.3
+  title: Cell surface localisation of GPI-anchored receptors in Trypanosoma brucei
+  authors:
+  - Sourav Banerjee
+  - Nicola Minshall
+  - Alexander D Cook
+  - Olivia Macleod
+  - Helena Webb
+  - Matthew K Higgins
+  - Mark Carrington
+  publisher: eLife
+  date: '2026-05-19'
+  link: https://doi.org/hct59v
+  orcid: 0000-0003-1283-1541
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.pt.2025.11.006
   title: "EMBO Workshop Host\u2013Parasite Relationship 2025: cutting-edge science\
     \ from the shores of Les Embiez"
@@ -250,6 +266,22 @@
   orcid: 0000-0003-1283-1541
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.64898/2026.06.16.732631
+  title: "A\n                  <i>Trypanosoma brucei gambiense</i>\n             \
+    \     gene variant confers human serum resistance"
+  authors:
+  - Nicola Minshall
+  - Sourav Banerjee
+  - Olivia Macleod
+  - Helena Webb
+  - Alex Cook
+  - Matthew Higgins
+  - Mark Carrington
+  publisher: Pre-print on bioRxiv
+  date: '2026-06-16'
+  link: https://doi.org/hct59w
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.64898/2026.08.17.745214
   title: An African trypanosome surface protein inhibits amplification of the complement
     system
@@ -259,7 +291,7 @@
   - Nicola Minshal
   - Mark Carrington
   - Matthew K. Higgins
-  publisher: openRxiv
+  publisher: Pre-print on bioRxiv
   date: '2026-08-20'
   link: https://doi.org/hct59t
   image: images/paper-C3bBb.png
