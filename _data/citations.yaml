@@ -55,8 +55,9 @@
   date: '2024-04-24'
   link: https://doi.org/hct58q
   orcid: 0000-0003-1283-1541
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/paper-isg65c3b.png
 - id: doi:10.1016/j.pt.2023.09.001
   title: 'Trypanosomes and complement: more than one way to die?'
   authors:
@@ -295,18 +296,5 @@
   date: '2026-08-20'
   link: https://doi.org/hct59t
   image: images/paper-C3bBb.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.88960.3
-  title: Molecular mechanism of complement inhibition by the trypanosome receptor
-    ISG65
-  authors:
-  - Alexander D Cook
-  - Mark Carrington
-  - Matthew K Higgins
-  publisher: eLife
-  date: '2024-04-24'
-  link: https://doi.org/hct58q
-  image: images/paper-isg65c3b.png
   plugin: sources.py
   file: sources.yaml
