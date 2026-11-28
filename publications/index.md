@@ -13,7 +13,13 @@ Below you can find a list of Alex's publications, with those exploring recent fi
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="An African trypanosome surface protein inhibits amplification of the complement system" style="rich" %}
+
+{% include citation.html lookup="Molecular mechanism of complement inhibition by the trypanosome receptor ISG65" style="rich" %}
+
+{% include citation.html lookup="Trypanosomes and complement: more than one way to die?" style="rich" %}
+
+{% include citation.html lookup="Invariant surface glycoprotein 65 of Trypanosoma brucei is a complement C3 receptor" style="rich" %}
 
 {% include section.html %}
 
