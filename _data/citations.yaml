@@ -100,8 +100,9 @@
   date: '2022-08-29'
   link: https://doi.org/hct58t
   orcid: 0000-0003-1283-1541
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/paper-isg65.png
 - id: doi:10.15252/emmm.202013818
   title: "Inhibiting parasite proliferation using a rationally designed anti\u2010\
     tubulin agent"
@@ -138,8 +139,9 @@
   date: '2021-11-01'
   link: https://doi.org/g6hxpd
   orcid: 0000-0003-1283-1541
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/paper-pfk5.png
 - id: doi:10.1016/j.pt.2021.07.005
   title: High-throughput hit-squad tackles trypanosomes
   authors:
@@ -179,8 +181,9 @@
   date: '2020-01-01'
   link: https://doi.org/gsvd6m
   orcid: 0000-0003-1283-1541
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/paper-mirp.png
 - id: doi:10.1038/s41467-019-13247-6
   title: Structural determinants of microtubule minus end preference in CAMSAP CKK
     domains
@@ -273,64 +276,5 @@
   date: '2024-04-24'
   link: https://doi.org/hct58q
   image: images/paper-isg65c3b.png
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1038/s41467-022-32728-9
-  title: Invariant surface glycoprotein 65 of Trypanosoma brucei is a complement C3
-    receptor
-  authors:
-  - Olivia J. S. Macleod
-  - Alexander D. Cook
-  - Helena Webb
-  - Mandy Crow
-  - Roisin Burns
-  - Maria Redpath
-  - Stefanie Seisenberger
-  - Camilla E. Trevor
-  - Lori Peacock
-  - Angela Schwede
-  - Nicola Kimblin
-  - Amanda F. Francisco
-  - Julia Pepperl
-  - Steve Rust
-  - Paul Voorheis
-  - Wendy Gibson
-  - Martin C. Taylor
-  - Matthew K. Higgins
-  - Mark Carrington
-  publisher: Nature Communications
-  date: '2022-08-29'
-  link: https://doi.org/hct58t
-  image: images/paper-isg65.png
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1016/j.jbc.2021.101063
-  title: Cryo-EM structure of a microtubule-bound parasite kinesin motor and implications
-    for its mechanism and inhibition
-  authors:
-  - Alexander D. Cook
-  - Anthony J. Roberts
-  - Joseph Atherton
-  - Rita Tewari
-  - Maya Topf
-  - Carolyn A. Moores
-  publisher: Journal of Biological Chemistry
-  date: '2021-11-01'
-  link: https://doi.org/g6hxpd
-  image: images/paper-pfk5.png
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1016/j.jsb.2019.10.004
-  title: A microtubule RELION-based pipeline for cryo-EM image processing
-  authors:
-  - Alexander D. Cook
-  - Szymon W. Manka
-  - Su Wang
-  - Carolyn A. Moores
-  - Joseph Atherton
-  publisher: Journal of Structural Biology
-  date: '2020-01-01'
-  link: https://doi.org/gsvd6m
-  image: images/paper-mirp.png
   plugin: sources.py
   file: sources.yaml
