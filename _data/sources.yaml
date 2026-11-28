@@ -1,17 +1,17 @@
 - id: doi:10.64898/2026.08.17.745214
-  image: images/paper-C3bBb
+  image: images/paper-C3bBb.png
 
 - id: doi:10.7554/eLife.88960.3
-  image: images/paper-isg65c3b
+  image: images/paper-isg65c3b.png
 
 - id: doi:10.1016/j.pt.2023.09.001
-  image: images/paper-complementtryps
+  image: images/paper-complementtryps.png
 
 - id: 10.1038/s41467-022-32728-9
-  image: images/paper-isg65
+  image: images/paper-isg65.png
 
 - id: 10.1016/j.jbc.2021.101063
-  image: images/paper-pfk5
+  image: images/paper-pfk5.png
 
 - id: 10.1016/j.jsb.2019.10.004
-  image: images/paper-mirp
+  image: images/paper-mirp.png
