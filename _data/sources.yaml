@@ -1,8 +1,13 @@
+- id: doi:10.64898/2026.06.16.732631 
+  publisher: Pre-print on bioRxiv
+
 - id: doi:10.64898/2026.08.17.745214
   image: images/paper-C3bBb.png
+  publisher: Pre-print on bioRxiv
 
 - id: doi:10.7554/eLife.88960.3
   image: images/paper-isg65c3b.png
+  publisher: eLife
 
 - id: doi:10.1016/j.pt.2023.09.001
   image: images/paper-complementtryps.png
